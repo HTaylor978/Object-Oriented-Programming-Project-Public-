@@ -1,0 +1,2 @@
+git repository: https://github.com/UofM-PHYS30762/project-detector-simulation-HTaylor978/releases/tag/v3.0
+compile line: g++ -std=gnu++17 -g bool_detector.cpp calorimeter_particle.cpp calorimeter.cpp detector.cpp electron.cpp event.cpp main.cpp muon_chamber.cpp muon.cpp neutrino.cpp neutron.cpp particle.cpp photon.cpp proton.cpp sub_detector.cpp tau.cpp tracker.cpp -o project.exe 
